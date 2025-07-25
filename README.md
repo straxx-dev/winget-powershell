@@ -1,4 +1,4 @@
-# install-software.ps1
+# Windows Setup Toolkit – Dein interaktives PowerShell-Winget-Skript
 
 **Interaktives PowerShell-Skript zur Installation von Software via winget**
 
